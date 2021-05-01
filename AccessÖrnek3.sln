@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessÖrnek3", "AccessÖrnek3\AccessÖrnek3.csproj", "{609187FD-9A08-4AF4-9CBB-EDC97A0B419E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{609187FD-9A08-4AF4-9CBB-EDC97A0B419E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{609187FD-9A08-4AF4-9CBB-EDC97A0B419E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{609187FD-9A08-4AF4-9CBB-EDC97A0B419E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{609187FD-9A08-4AF4-9CBB-EDC97A0B419E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02DB888C-99E1-4B1B-81A3-5710B1248234}
+	EndGlobalSection
+EndGlobal
